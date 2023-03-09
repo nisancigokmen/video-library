@@ -29,6 +29,7 @@
   - view list of playlists created by them
   - view particular playlist and videos in it
   - delete a particular video from playlist
+  
   - delete complete playlist
  - **[Watch later](https://caketube.vercel.app/explore/playlists/watchLater)** - list of videos added to watch later by the user(requires user to be logged in). User can remove videos from watch later.
  - **[Liked Videos](https://caketube.vercel.app/explore/likedVideos)** - list of videos liked by the user(requires user to be logged in). User can remove video from liked videos.
