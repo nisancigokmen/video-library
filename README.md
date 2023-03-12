@@ -5,6 +5,8 @@
 
 
 
+
+
 ### Table of contents ###
 - [About CakeTube](#about)
 - [Features and demo](#features)
@@ -19,6 +21,7 @@
 **[CakeTube](https://caketube.vercel.app/)** -  a video library for wholesome, healthy and super delicious baking recipes.
 
 <a name="features"></a>
+
 ### Features and demo ###
 - **[Home](https://caketube.vercel.app/)** - houses all the categories.
 - **[Videolisting](https://caketube.vercel.app/explore)** - all videos at one place. Users can
